@@ -5,6 +5,8 @@ This is the staging area for my blog content. You can get the raw deets here bef
 And follow my updates if you really want to. It's going to be a lot of minor spelling, grammar,
 and content modifications ;)
 
+In the public service we are inspired by what we can do for the canadian public, in so many other places the answer is "maybe, let's see what happens". Forget maybe, just do. But always be ready to park the plane in the hangar waiting for the right skies to fly.
+
 [Check out the blog on Medium](https://medium.com/the-mighty-weasel)
 
 ## Planned Articles

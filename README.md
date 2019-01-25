@@ -32,6 +32,6 @@ The card methods are sticky. Make sure you measure twice and cut once... Use thi
 - [ ] Kobeyeet. Co-routine applications sharing precision and power
 - [ ] Howler Muttrix. An ultralite web analytics alert system
 - [ ] Badger. Lightweight team 'props' system. Cheer each other on.
-- [ ] Scratchpad Desltop. A light weight implementation of a web desktop with notes
+- [ ] Scratchpad Desktop. A light weight implementation of a web desktop with notes
 - [ ] WelcomeToTheTeam. A github playground for new hires w/ [Rob Nielsen](https://github.com/orgs/DIS-SIN/people/RobNielsen515)
 - [ ] Pure CSS ultralite web app skeleton  

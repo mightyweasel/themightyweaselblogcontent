@@ -9,6 +9,10 @@ In the public service we are inspired by what we can do for the canadian public,
 
 [Check out the blog on Medium](https://medium.com/the-mighty-weasel)
 
+## Bloggers Should Know
+
+The card methods are sticky. Make sure you measure twice and cut once... Use this: [Twitter Card Validator](https://cards-dev.twitter.com/validator)
+
 ## Planned Articles
 
 * Jan 24 - Mar 5, 2019
@@ -24,3 +28,10 @@ In the public service we are inspired by what we can do for the canadian public,
 - [ ] Learning to learn: Methods, Value-retention
 - [ ] The art of the possible: From Dream to Done
 
+* Planned Micro-projects (Rapid Experiments in Value Generation)
+- [ ] Kobeyeet. Co-routine applications sharing precision and power
+- [ ] Howler Muttrix. An ultralite web analytics alert system
+- [ ] Badger. Lightweight team 'props' system. Cheer each other on.
+- [ ] Scratchpad Desltop. A light weight implementation of a web desktop with notes
+- [ ] WelcomeToTheTeam. A github playground for new hires w/ [Rob Nielsen](https://github.com/orgs/DIS-SIN/people/RobNielsen515)
+- [ ] Pure CSS ultralite web app skeleton  

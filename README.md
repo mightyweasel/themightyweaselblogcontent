@@ -10,7 +10,7 @@ and content modifications ;)
 ## Planned Articles
 
 * Jan 24 - Mar 5, 2019
-- [x] Weasel war dance init()
+- [x] [Weasel war dance init()](https://medium.com/the-mighty-weasel/war-dance-init-c90a04177bd1)
 - [ ] Crash Course Series: Go, Building a web app
 - [ ] Crash Course Series: Python, Building a web app
 - [ ] Crash Course Series: SASS, Cascading Smile Sheets
@@ -21,9 +21,4 @@ and content modifications ;)
 - [ ] Crash Course Series: Ultralite, a Pure CSS microapp
 - [ ] Learning to learn: Methods, Value-retention
 - [ ] The art of the possible: From Dream to Done
-
-
-
-
-
 

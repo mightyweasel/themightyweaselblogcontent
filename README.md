@@ -9,9 +9,8 @@ and content modifications ;)
 
 ## Planned Articles
 
-- [x] Weasel war dance init()
-
 * Jan 24 - Mar 5, 2019
+- [x] Weasel war dance init()
 - [ ] Crash Course Series: Go, Building a web app
 - [ ] Crash Course Series: Python, Building a web app
 - [ ] Crash Course Series: SASS, Cascading Smile Sheets

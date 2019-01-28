@@ -13,6 +13,8 @@ In the public service we are inspired by what we can do for the canadian public,
 
 The card methods are sticky. Make sure you measure twice and cut once... Use this: [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 
+Also authoring direct in medium is a little less than ideal if you're coding at the sametime. I like this: https://markdowntomedium.com/
+
 ## Planned Articles
 
 My contract ends in May, not because I want it to. Until then, welcome to the Weasel War Dance.
@@ -29,16 +31,18 @@ Here are the upcoming planned articles.
 
 * Vision and Wayfinding
 - [x] [Weasel war dance init()](https://medium.com/the-mighty-weasel/war-dance-init-c90a04177bd1)
-- [ ] [Why We Type, Code](https://medium.com/the-mighty-weasel/why-we-type-code-1b4e6b74a3b2)
+- [x] [Why We Type, Code](https://medium.com/the-mighty-weasel/why-we-type-code-1b4e6b74a3b2)
 - [ ] Head.bang(): Develop like you're in a norwegian forest
 - [ ] Crash Course Series: Ultralite, a Pure CSS microapp
 - [ ] Learning to learn: Methods, Value-retention
 - [ ] Failing at Failure: Labels, Indoctrination, Existential Dread
 - [ ] The art of the possible: From Dream to Done
+- [ ] Whats in the box: Skills you need for digital
 
 * Crash Courses
-- [ ] Crash Course Series: Go, Building a web app
-- [ ] Crash Course Series: Python, Building a web app
+- [x] [Crash Course Series: Go, Building a web app - Part 1 (Intros and Discussion)](https://medium.com/the-mighty-weasel/crash-course-series-basic-go-web-application-aa9a08e0f5e5)
+- [ ] Crash Course Series: Go, Building a web app - Part 2 (Code Review and Deploy)
+- [ ] Crash Course Series: Python, Building a web app (docker, flask)
 - [ ] Crash Course Series: SASS, Cascading Smile Sheets
 - [ ] Crash Course Series: nginx, pm2, Server Serve Us
 - [ ] Crash Course Series: github and ssh, build quicker

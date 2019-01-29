@@ -38,6 +38,7 @@ Here are the upcoming planned articles.
 - [ ] Failing at Failure: Labels, Indoctrination, Existential Dread
 - [ ] The art of the possible: From Dream to Done
 - [ ] Whats in the box: Skills you need for digital
+- [ ] Digital is a Human Problem: Technology can't fix humans
 
 * Crash Courses
 - [x] [Crash Course Series: Go, Building a web app - Part 1 (Intros and Discussion)](https://medium.com/the-mighty-weasel/crash-course-series-basic-go-web-application-aa9a08e0f5e5)

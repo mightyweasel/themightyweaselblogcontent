@@ -32,13 +32,13 @@ Here are the upcoming planned articles.
 * Vision and Wayfinding
 - [x] [Weasel war dance init()](https://medium.com/the-mighty-weasel/war-dance-init-c90a04177bd1)
 - [x] [Why We Type, Code](https://medium.com/the-mighty-weasel/why-we-type-code-1b4e6b74a3b2)
+- [x] [Digital is a Human Problem: Technology can't fix humans](https://medium.com/the-mighty-weasel/digital-is-a-human-challenge-you-cant-reboot-a-human-ead0e00b56bb)
 - [ ] Head.bang(): Develop like you're in a norwegian forest
 - [ ] Crash Course Series: Ultralite, a Pure CSS microapp
 - [ ] Learning to learn: Methods, Value-retention
 - [ ] Failing at Failure: Labels, Indoctrination, Existential Dread
 - [ ] The art of the possible: From Dream to Done
-- [ ] Whats in the box: Skills you need for digital
-- [ ] Digital is a Human Problem: Technology can't fix humans
+- [ ] Whats in the box: Skills you need for digital (decomp, curiousity, )
 
 * Crash Courses
 - [x] [Crash Course Series: Go, Building a web app - Part 1 (Intros and Discussion)](https://medium.com/the-mighty-weasel/crash-course-series-basic-go-web-application-aa9a08e0f5e5)

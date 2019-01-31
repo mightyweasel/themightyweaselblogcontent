@@ -25,7 +25,7 @@ Nothing is accomplished alone.
 
 My 30 year goal: To realize or have laid a stable foundation for a fully digital Canadian government serving the Canadian public anywhere anytime in the palm of their hand. From birth to death one consistent reliable open and effective platform for civic engagement and the future of democracy.
 
-My 30 day goal: Dream. Build. Learn. Share. Disrupt. Repeat.
+My 90 day goal: Dream. Build. Learn. Share. Disrupt. Repeat.
 
 Here are the upcoming planned articles. 
 
@@ -34,13 +34,22 @@ Here are the upcoming planned articles.
 - [x] [Why We Type, Code](https://medium.com/the-mighty-weasel/why-we-type-code-1b4e6b74a3b2)
 - [x] [Digital is a Human Problem: Technology can't fix humans](https://medium.com/the-mighty-weasel/digital-is-a-human-challenge-you-cant-reboot-a-human-ead0e00b56bb)
 - [ ] Head.bang(): Develop like you're in a norwegian forest
-- [ ] Crash Course Series: Ultralite, a Pure CSS microapp
 - [ ] Learning to learn: Methods, Value-retention
 - [ ] Failing at Failure: Labels, Indoctrination, Existential Dread
 - [ ] The art of the possible: From Dream to Done
-- [ ] Whats in the box: Skills you need for digital (decomp, curiousity, )
+- [ ] Build one to throw away: Experimentation lets you show not tell
+- [ ] MachinePeople MachineHearts: This life can be free and beautiful
 
-* Crash Courses
+* Digital Skills Series
+- [ ] Digital Skills: Whats in the box
+- [ ] Digital Skills: Adapters and Interfaces
+- [ ] Digital Skills: Decomposition and Expansion
+- [ ] Digital Skills: Curiosity and Perseverance
+- [ ] Digital Skills: Bravery and Belays
+- [ ] Digital Skills: Being Uncomfortable is the Best Place
+- [ ] Digital Skills: You are what you consistently do
+
+* Crash Courses Series
 - [x] [Crash Course Series: Go, Building a web app - Part 1 (Intros and Discussion)](https://medium.com/the-mighty-weasel/crash-course-series-basic-go-web-application-aa9a08e0f5e5)
 - [ ] Crash Course Series: Go, Building a web app - Part 2 (Code Review and Deploy)
 - [ ] Crash Course Series: Python, Building a web app (docker, flask)
@@ -48,14 +57,17 @@ Here are the upcoming planned articles.
 - [ ] Crash Course Series: nginx, pm2, Server Serve Us
 - [ ] Crash Course Series: github and ssh, build quicker
 - [ ] Crash Course Series: d3, graphing for responsive devices
+- [ ] Crash Course Series: js, building an MVP in MVT
 
 * Planned Micro-projects (Rapid Experiments in Value Generation)
+- [ ] Ultralites, microapp rapid mvp application framework
+- [ ] GCIcon, quick CC0 iconography for GC public servants to use licence free
+- [ ] NOISEh, the music that builds our code, github projects and the tunes that helped create them
 - [ ] Kobeyeet. Co-routine applications sharing precision and power
 - [ ] Howler Muttrix. An ultralite web analytics alert system
 - [ ] Badger. Lightweight team 'props' system. Cheer each other on.
 - [ ] Scratchpad Desktop. A light weight implementation of a web desktop with notes
 - [ ] WelcomeToTheTeam. A github playground for new hires w/ [Rob Nielsen](https://github.com/orgs/DIS-SIN/people/RobNielsen515)
-- [ ] Pure CSS ultralite web app skeleton  
 - [ ] kitchencouch - set up informal get togethers on the fly, quick thumbs in (IM IN!, have plans, busy, have fun im out) 
 
 * Long Term Transformational Technology Research and Development
